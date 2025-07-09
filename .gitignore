@@ -1,0 +1,17 @@
+.env
+
+*.json
+
+*.parquet
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+bees_venv/
+*.egg-info/
+.DS_Store
+docker-compose.override.yml
