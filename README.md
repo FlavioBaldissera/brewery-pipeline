@@ -34,7 +34,7 @@ This project implements a complete **ETL pipeline** using **Apache Airflow** orc
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com//FlavioBaldissera/brewery-pipeline.git
+git clone https://github.com/FlavioBaldissera/brewery-pipeline
 cd brewery-pipeline
 ```
 
